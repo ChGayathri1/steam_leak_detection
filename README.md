@@ -22,7 +22,6 @@ This project implements a high-recall visual detection system for high-pressure 
 | **Precision** | 82.61% |
 
 ## Repository Structure
-/
 ├── hardware/        
 ├── src/               
 ├── model/             
