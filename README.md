@@ -22,7 +22,13 @@ This project implements a high-recall visual detection system for high-pressure 
 | **Precision** | 82.61% |
 
 ## Repository Structure
-(Use the structure from Step 1 here)
+/
+├── hardware/        
+├── src/               
+├── model/             
+├── dataset/            
+├── documentation/
+└── README.md           
 
 ## Publication
 The full research paper detailing the methodology and hardware integration is available in the `documentation/` folder.
